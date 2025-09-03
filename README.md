@@ -1,2 +1,2 @@
 # sausoon-com
-The sausoon.com repository.
+www.sausoon.com website, this website is my portfolio website.
